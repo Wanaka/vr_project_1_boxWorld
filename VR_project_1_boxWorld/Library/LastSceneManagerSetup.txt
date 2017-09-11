@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/VR_project_1_boxWorld.unity
+  isLoaded: 1
+  isActive: 1
